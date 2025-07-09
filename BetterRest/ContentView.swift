@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  ViewsAndModifiers
+//  BetterRest
 //
-//  Created by Наташа Спиридонова on 08.07.2025.
+//  Created by Наташа Спиридонова on 09.07.2025.
 //
 
 import SwiftUI
